@@ -1,0 +1,13 @@
+USUARIOS DE READBOOK
+
+ADMINISTRADOR:
+Correo: cris045@gmail.com
+Contraseña: cris1
+
+ESCRITOR:
+Correo: yutzil@gmail.com
+Contraseña: yutzil1
+
+LECTOR:
+Correo: antonio@gmail.com
+Contraseña: antonio1
